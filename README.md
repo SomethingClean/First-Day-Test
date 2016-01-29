@@ -1,1 +1,3 @@
 # First-Day-Test
+
+First day of IT 11, trying out this new program, pretty weird stuff...
